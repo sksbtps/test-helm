@@ -5,13 +5,13 @@ entries:
       challenge: nuhelm3
       internal: "true"
     apiVersion: v2
-    appVersion: 9.0.0
-    created: "2024-11-21T00:35:09.746051-08:00"
+    appVersion: 10.0.0
+    created: "2024-11-21T01:08:13.125721-08:00"
     description: A Helm chart for Kubernetes
-    digest: 63d51188cc61ca54c85720e3faca1d28c8ff6c748e9bc6aeea86b921cfe57e81
+    digest: 454b163c08514b62d4ca9d246ce299133196e5b8b610607d2cc9d0e7051a9f55
     name: nuhelm3-chart
     type: application
     urls:
-    - https://github.com/sksbtps/test-helm/releases/download/v0.1.0/nuhelm3-chart-9.0.0.tgz
-    version: 9.0.0
-generated: "2024-11-21T00:35:09.745493-08:00"
+    - https://github.com/sksbtps/test-helm/releases/download/v0.1.0/nuhelm3-chart-10.0.0.tgz
+    version: 10.0.0
+generated: "2024-11-21T01:08:13.123329-08:00"
